@@ -1,2 +1,2 @@
 # JAVAPattern
-巩固23种设计模式代码
+巩固Java设计模式的代码 Adapter  Decorator Factory Prototype Proxy Singleton
