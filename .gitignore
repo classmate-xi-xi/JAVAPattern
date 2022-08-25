@@ -1,2 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
 /DesignPatterns/out/
+/out/
+将删除 .idea/.gitignore
+将删除 .idea/codeStyles/
+将删除 .idea/inspectionProfiles/
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/vcs.xml
+将删除 JAVAPattern.iml

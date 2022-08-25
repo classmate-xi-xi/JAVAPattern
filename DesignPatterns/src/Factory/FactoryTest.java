@@ -16,7 +16,7 @@ public class FactoryTest {
 
     public static void main(String[] args) {
         FactoryTest t = new FactoryTest();
-        Factory factory = t.test();
+        Factory factory = test();
         Factory factory2 = FactoryTest.test();
         Factory factory1 = t.test1();
         factory.method();
